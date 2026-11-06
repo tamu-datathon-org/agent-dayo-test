@@ -1,0 +1,4 @@
+torch
+tensorflow[and-cuda]
+requests
+scipy
